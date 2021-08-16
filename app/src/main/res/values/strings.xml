@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Show Ad</string>
+
+    <string name="show_ad_btn">Show the ad</string>
+</resources>
